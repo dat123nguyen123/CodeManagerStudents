@@ -1,0 +1,22 @@
+{
+  "name": "build_project_anonystick",
+  "version": "1.0.0",
+  "description": "### Notes:  You can get html templates here: [get folder assets](https://anonystick.com/blog-developer/de-tai-build-mot-blog-chat-su-dung-nodejs-expressjs-mongodb-firebase-2020041522880531)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cjs": "0.0.11",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.6",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {}
+}
